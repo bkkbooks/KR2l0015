@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2l0015/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定歷代職官表
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:48:31.415934'
+  source:
+    repository: kanripo
+    path: KR2l0015/KR2l0015_000.txt
+hash: sha256:78a4c28852553f77975f1444dd4c3dfd2ceffb4e811e663303306c3e61b081e8

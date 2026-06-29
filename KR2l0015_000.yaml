@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2l0015/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定歷代職官表
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:48:31.415934'
+  source:
+    repository: kanripo
+    path: KR2l0015/KR2l0015_000.txt
+hash: sha256:c079c3aa5c0299d2a16c766f7c0abe46a3551667ec2839ae192ac338070936c3
